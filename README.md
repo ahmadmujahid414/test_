@@ -4,4 +4,8 @@
 
 # this is testing file
 
+<<<<<<< HEAD
 # Hi
+
+# hi
+
